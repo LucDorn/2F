@@ -1,0 +1,11 @@
+{
+    "config": {
+        "vendor-dir": "app"
+    },
+    "require": {
+        "phpmailer/phpmailer": "^7.1",
+        "league/oauth2-google": "^5.0",
+        "vlucas/phpdotenv": "^5.7",
+        "monolog/monolog": "^3.12"
+    }
+}
